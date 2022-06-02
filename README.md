@@ -1,2 +1,4 @@
 # mChoDid1
-paper_analyses
+Analyses
+
+Notes on analyses
