@@ -24,4 +24,12 @@ The most abundant, young and likely to be active
 ![](/repeats/mChoDid1-LINEs.png)
 
 
+### SINES
 
+Oldest elements
+
+![](/repeats/sines.png)
+
+### All repeats
+
+![](/repeats/all_repeats.pdg) 
