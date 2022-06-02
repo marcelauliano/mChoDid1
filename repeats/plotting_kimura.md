@@ -19,4 +19,9 @@ tail -n 72 sumary > plot.txt
 
 ### LINES
 
+The most abundant, young and likely to be active
+
+![](/repeats/mChoDid1-LINEs.png)
+
+
 
