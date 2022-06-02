@@ -17,4 +17,6 @@ tail -n 72 sumary > plot.txt
 ### 4. Plot with [R code](/repeats/plot_kimura.R) from [Kristina Gagalova](https://github.com/KristinaGagalova) 
 
 
+### LINES
+
 
