@@ -30,6 +30,11 @@ Oldest elements
 
 ![](/repeats/sines.png)
 
+
+## LINES + SINES 
+
+![](/repeats/lines-sines.png)
+
 ### All repeats
 
 ![](/repeats/all.jpg) 
