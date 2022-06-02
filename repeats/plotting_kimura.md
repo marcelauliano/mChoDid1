@@ -32,4 +32,4 @@ Oldest elements
 
 ### All repeats
 
-![](/repeats/all_repeats.pdg) 
+![](/repeats/all_repeats.pdf) 
