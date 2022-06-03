@@ -27,4 +27,4 @@ con = pd.read_csv("GCF_015220235.1_mChoDid1.pri_genomic.gc.length", sep=",", nam
 g = sns.relplot(data=con[con["length"] > 10490877], x="GC", y="length")
 plt.title("Choloepus didactulys - GC content vs chromosome length", pad=20)
 
-plt.savefig('CD-GC-length.png', dpi=1000, bbox_inches='tight')
+plt.savefig('CD-GC-length.png', dpi=100, bbox_inches='tight')
