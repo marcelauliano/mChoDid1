@@ -24,6 +24,10 @@ Rscript plot_karyotype.R
 
 Following [this tutorial](https://bernatgel.github.io/karyoploter_tutorial//Examples/PVivaxGenes/PVivaxGenes.html)
 
+### 3.1 Genes
+
 ``` 
 Rscript plot_exons.R
 ```
+
+![](/general/CD-genes.png)
