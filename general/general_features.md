@@ -18,3 +18,12 @@ Rscript plot_karyotype.R
 ```
 
 ![](/general/karyotype.jpg) 
+
+
+## 3. Plot features for gff 
+
+Following [this tutorial](https://bernatgel.github.io/karyoploter_tutorial//Examples/PVivaxGenes/PVivaxGenes.html)
+
+``` 
+Rscript plot_exons.R
+```
