@@ -31,3 +31,10 @@ Rscript plot_exons.R
 ```
 
 ![](/general/CD-genes.png)
+
+
+### 3.2 Pseudogenes
+
+Change lines on R script to plot pseudogenes
+
+![](/general/Cd-pseudogenes.png)
