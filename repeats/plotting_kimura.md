@@ -21,6 +21,8 @@ tail -n 72 sumary > plot.txt
 
 The most abundant, young and likely to be active
 
+cat plot.txt | awk '{print$1" "$30" "$31" "$32" "$33" "$34" "$35" "$36" "$37" "$38" "$39" "$40}' > LINE.plot.txt
+
 ![](/repeats/mChoDid1-LINEs.png)
 
 
