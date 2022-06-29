@@ -6,7 +6,7 @@ sed s'/##sequence-region.*//g' repeast.gff > repeats1.gff
 sed '/^$/d' repeats1.gff > repeats2.gff
 ```
 
-Then run https://github.com/marcelauliano/mChoDid1/blob/main/repeats/filter_repeats_gff.py to get the filtered gff for the maio chromossomes 
+Then run [filter_repeats_gff.py](https://github.com/marcelauliano/mChoDid1/blob/main/repeats/filter_repeats_gff.py) to get the filtered gff for the maio chromossomes 
 
 
 Then include the following as header
@@ -48,3 +48,5 @@ Then include the following as header
 ##sequence-region NC_051334.1 1 193839925
 ##sequence-region NC_051335.1 1 55058534
 ```
+
+## 1.1. Then plot all the repeats in the main chromossomes with default windowsize with this [R code](/repeats/all_repeats_default.R)
