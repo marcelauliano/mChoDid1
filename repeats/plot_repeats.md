@@ -54,3 +54,13 @@ Then include the following as header
 All repeats with default window size
 
 ![](/repeats/all-repeats-default5.png)
+
+
+## 1.2. Plot with windows of 1000.
+
+Replace line 20 of R code by
+```kpPlotDensity(kp, data=allreps, window.size = 10000,)```
+
+![](/repeats/all-repeats-w1000.png)
+
+
