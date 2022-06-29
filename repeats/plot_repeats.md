@@ -50,3 +50,7 @@ Then include the following as header
 ```
 
 ## 1.1. Then plot all the repeats in the main chromossomes with default windowsize with this [R code](/repeats/all_repeats_default.R)
+
+All repeats with default window size
+
+![](/repeats/all-repeats-default5.png)
