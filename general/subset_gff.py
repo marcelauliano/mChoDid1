@@ -17,7 +17,8 @@ with open(args.l) as f:
 
 #open gff file
 m_names=('seqname','source','feature','start','end', 'score','strand','frame','Names')
-df4=pd.read_csv(args.g, names=m_names, sep="\t", skiprows=35)
+mytypes={'start':'Int64', 'end':'Int64'}
+df4=pd.read_csv(args.g, names=m_names, dtype=mytypes, sep="\t", skiprows=35)
 
 #save partial gff file
 df5 = df4[df4['Names'].str.contains('|'.join(terms), na=False)]
