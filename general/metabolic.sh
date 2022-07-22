@@ -13,6 +13,15 @@ python get_protID_by_name.py -l list -i proteins_name_descriptions_ids
 
 # this outputs all protein IDs for the list of genes in separated files. Id files ending in "*.id.csv"
 
+cat *.id.csv > all.id.csv
+
+python get_ort.py -ort Orthogroups.txt -id two.id
+
+# now concatenate all orthogroup IDs so you can get the orthogroups to files
+
+cat *.Ort.csv > all.Ort.csv
+
+
 
 
 
