@@ -7,8 +7,13 @@ proteins_name_descriptions_fasta="/lustre/scratch123/tol/teams/tola/users/mu2/fr
 proteins_name_descriptions_ids="/lustre/scratch123/tol/teams/tola/users/mu2/from_scratch116/mChoDid1-paper/orthofinder-Longest/mChoDid1.prot.tab.ids"
 
 
-#giving a gene name
+#giving a list of gene names or descriptions
 
-grep "lactate dehydrogenase" $proteins_name_descriptions_ids
+python get_protID_by_name.py -l list -i proteins_name_descriptions_ids
+
+# this outputs all protein IDs for the list of genes in separated files. Id files ending in "*.id.csv"
+
+
+
 
 
