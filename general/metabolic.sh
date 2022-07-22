@@ -22,6 +22,10 @@ python get_ort.py -ort Orthogroups.txt -id two.id
 cat *.Ort.csv > all.Ort.csv
 
 
+#rename orthogroup headers
+
+python re_orthogroups_fastaHeader.py -f OG0006926.fa -n OG0006926.n.fa
+
 
 
 
