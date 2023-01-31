@@ -99,7 +99,8 @@ kpPlotRegions(kp, data=cds1, avoid.overlapping = FALSE, col="brown", data.panel=
 dev.off()
 ```
 
-![](general/chlo-karyotype.jpg) 
+
+![](/general/chlo-karyotype.jpg) 
 
 
 
