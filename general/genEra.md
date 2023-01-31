@@ -55,6 +55,7 @@ python rename_gff_seqname.py -d chrom.ids -g CD_GCF_015220235.1_mChoDid1.pri_gen
 Then plot the bellow in R
 
 ```
+jpeg("/Users/mu2/sloth-analysis-paper/general_features/chlo-karyotype.jpg")
 gff.file <-("/Users/mu2/sloth-analysis-paper/CD_GCF_015220235.1_mChoDid1.pri_genomic.n1.gff")
 header.lines <- readLines(gff.file, n = 35)
 #The lines with the standard chromosomes start with "##sequence-region".
@@ -95,6 +96,7 @@ kpPlotRegions(kp, data=genes, avoid.overlapping = FALSE, col="deepskyblue")
 
 cds1 <- features[features$type=="CD"]
 kpPlotRegions(kp, data=cds1, avoid.overlapping = FALSE, col="brown", data.panel=1)
+dev.off()
 ```
 
 
