@@ -52,7 +52,7 @@ python rename_gff_seqname.py -d chrom.ids -g CD_GCF_015220235.1_mChoDid1.pri_gen
 ##sequence-region chrY 1 55058534
 ```
 
-The plot the bellow in R
+Then plot the bellow in R
 
 ```
 gff.file <-("/Users/mu2/sloth-analysis-paper/CD_GCF_015220235.1_mChoDid1.pri_genomic.n1.gff")
