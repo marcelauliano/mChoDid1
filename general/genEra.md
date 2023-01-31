@@ -103,5 +103,9 @@ dev.off()
 ![](/general/chlo-karyotype.jpg) 
 
 
+With Xenarthra in green
+
+![](/general/chloxena-karyotype.jpg)
+
 
 
