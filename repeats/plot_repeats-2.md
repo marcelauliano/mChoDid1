@@ -108,5 +108,6 @@ kpPlotDensity(kp, data=allreps, window.size = 10e5, col=9 )
 allreps <- features[features$type=="LINE/R2-Hero"]
 kpPlotDensity(kp, data=allreps, window.size = 10e5, col=10 )
 ```
-![image](https://github.com/user-attachments/assets/c3c07b67-f2f7-465b-8cf5-bc3403091430)
+![image](https://github.com/user-attachments/assets/d42f05e6-09aa-4add-8702-09e3d36b276a)
+
 
