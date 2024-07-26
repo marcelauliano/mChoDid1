@@ -116,4 +116,9 @@ Used [this script](https://github.com/marcelauliano/mChoDid1/blob/main/repeats/p
 
 ![image](https://github.com/user-attachments/assets/d069d9a3-1a45-426a-87d9-756a3c5e64fc)
 
+### 2.1 Sloth-only LINES
+Same as 2, other plot type.
+Used [this script](https://github.com/marcelauliano/mChoDid1/blob/main/repeats/plot_specificRepeats2.R)
+
+![image](https://github.com/user-attachments/assets/397bb00b-a13c-46d2-9cb3-5591ac3a374b)
 
