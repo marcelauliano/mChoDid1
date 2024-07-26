@@ -111,3 +111,9 @@ kpPlotDensity(kp, data=allreps, window.size = 10e5, col=10 )
 ![image](https://github.com/user-attachments/assets/d42f05e6-09aa-4add-8702-09e3d36b276a)
 
 
+## 2 Sloth-only LINES
+Used [this script](https://github.com/marcelauliano/mChoDid1/blob/main/repeats/plot_specificRepeats.R)
+
+![image](https://github.com/user-attachments/assets/d069d9a3-1a45-426a-87d9-756a3c5e64fc)
+
+
