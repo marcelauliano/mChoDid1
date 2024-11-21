@@ -122,8 +122,12 @@ Used [this script](https://github.com/marcelauliano/mChoDid1/blob/main/repeats/p
 
 ![image](https://github.com/user-attachments/assets/397bb00b-a13c-46d2-9cb3-5591ac3a374b)
 
-### 2.1 Sloth LINE ChoHof-1.4
+### 2.2 Sloth LINE ChoHof-1.4
 
 Used [this script](https://github.com/marcelauliano/mChoDid1/blob/main/repeats/plot_repeatsCho-Hof1.4.R)
 ![image](https://github.com/user-attachments/assets/a90f81c3-c0b5-4065-972b-0c29da4490ce)
+
+### 2.2 Sloth LINE ChoHof-6.463
+
+![image](https://github.com/user-attachments/assets/11eda261-18ed-49e5-8c8f-da8ed46b31ef)
 
